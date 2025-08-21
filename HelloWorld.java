@@ -1,1 +1,5 @@
-System.out.println("Hello Jenkins, new build triggered!");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello Jenkins, new build triggered!");
+    }
+}
